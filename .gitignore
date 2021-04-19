@@ -6,6 +6,8 @@ __pycache__/
 # remove Azure Credentials from github
 config.json
 
+.DS_Store
+
 # C extensions
 *.so
 
