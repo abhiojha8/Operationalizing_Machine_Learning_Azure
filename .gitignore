@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# remove Azure Credentials from github
 config.json
 
 # C extensions
