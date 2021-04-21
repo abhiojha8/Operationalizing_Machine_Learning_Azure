@@ -137,5 +137,5 @@ In this project, we followed the following steps:
 
 ## Screen Recording
 
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+https://youtu.be/srqP9J4dv0k
 
